@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<FireworkDisplay>
+  <Firework begin="1000" type="Rocket" colour="0xFF2020" duration="1000">
+    <Position x="500" y="-384"/>
+    <Velocity x="-180" y="600"/>
+  </Firework>
+</FireworkDisplay>
